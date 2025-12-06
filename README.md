@@ -8,9 +8,16 @@ I'm Emre, a 16-year-old cybersecurity researcher and backend developer.
 
 🚀 Siber güvenlik alanında yaş ortalamama göre üst düzey bir araştırmacı ve bir etik hackerın sahip olması gereken seviyede yazılım geliştiricisiyim, 6 yıldır devamlı olarak siber güvenlikle uğraşıyorum. [TR]
 
+
+
+
 💻 I’m currently working on the backend side with Python and PHP. In my free time, I solve CTF challenges. I won first place in a city-wide CTF competition—officially making me the best in my city—and I’m ready to prove I can compete at the national level if a country-wide event is held. :) [EN]
 
 💻 Şu anda Python ve PHP dilleri üzerine backend tarafında çalışıyorum. Boş zamanlarımda CTF çözüyorum. Şehir çapında düzenlenen bir CTF yarışmasında birincilik kazandım, resmiyette şehrimin en iyisiyim ama ülke genelinde bir yarışma düzenlenirse, ülke genelindede en iyisi olduğumu ortaya koymak için hazırım. :) [TR]
+
+
+
+
 
 🗣️ I have A1–A2 level English and B2 level Turkish. I’ve been using Duolingo-style apps in a structured way for the past three months to improve my foreign language skills. [EN]
 
